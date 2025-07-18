@@ -13,4 +13,4 @@ That’s it — a small app that helps you keep track of tasks from the command 
 
 <img width="1920" height="1066" alt="Screenshot 2025-07-18 153633" src="https://github.com/user-attachments/assets/29b4e2f2-f39c-4563-afa0-962c67b0f912" />
 
-This my output while using this to-do app.
+This is my output while using this to-do app.
