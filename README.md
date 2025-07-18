@@ -11,5 +11,6 @@ You use the open() function to read and write to the file.
 
 That’s it — a small app that helps you keep track of tasks from the command line.
 
-<img width="1920" height="1080" alt="Screenshot 2025-07-18 153633" src="https://github.com/user-attachments/assets/9fb350d4-045d-4696-9f35-02ab59caae41" />
+<img width="1920" height="1066" alt="Screenshot 2025-07-18 153633" src="https://github.com/user-attachments/assets/29b4e2f2-f39c-4563-afa0-962c67b0f912" />
+
 This my output while using this to-do app.
